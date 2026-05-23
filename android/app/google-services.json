@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "929658320769",
+    "project_id": "qurio-47cb0",
+    "storage_bucket": "qurio-47cb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929658320769:android:ca03d33b0aba7766765a80",
+        "android_client_info": {
+          "package_name": "com.example.qukio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929658320769-tmiprt0fr6jvopcha8v05h4nhlvjqbf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-4wilOON5TC00fn5N1cdIidQrsDRJb4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929658320769-tmiprt0fr6jvopcha8v05h4nhlvjqbf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "929658320769-b6612ecne8055u95tpnbl8tbjmfgun9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qurio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929658320769:android:76d5d3b07bd4b784765a80",
+        "android_client_info": {
+          "package_name": "com.example.qurio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929658320769-tmiprt0fr6jvopcha8v05h4nhlvjqbf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-4wilOON5TC00fn5N1cdIidQrsDRJb4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929658320769-tmiprt0fr6jvopcha8v05h4nhlvjqbf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "929658320769-b6612ecne8055u95tpnbl8tbjmfgun9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qurio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929658320769:android:1e02a095c0369f10765a80",
+        "android_client_info": {
+          "package_name": "com.example.qurio_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929658320769-tmiprt0fr6jvopcha8v05h4nhlvjqbf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-4wilOON5TC00fn5N1cdIidQrsDRJb4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929658320769-tmiprt0fr6jvopcha8v05h4nhlvjqbf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "929658320769-b6612ecne8055u95tpnbl8tbjmfgun9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qurio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
