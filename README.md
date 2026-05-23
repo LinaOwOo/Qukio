@@ -32,15 +32,3 @@
 - **Backend:** Firebase Auth, Cloud Firestore, Firebase Security Rules
 - **Пакеты:** `cloud_firestore`, `firebase_auth`, `provider`, `shared_preferences`, `share_plus`, `uuid`
 
-## 🗂️ Структура проекта
-lib/
-├── core/services/          # ThemeService и другие сервисы
-├── data/
-│   ├── models/             # DTO и маппинг данных
-│   └── repositories/       # Работа с Firebase и локальным хранилищем
-├── domain/
-│   ├── models/             # Бизнес-модели приложения
-│   └── repositories/       # Интерфейсы репозиториев
-└── presentation/
-    ├── screens/            # UI экраны (Home, Profile, Quiz, Lessons и др.)
-    └── widgets/            # Переиспользуемые компоненты
